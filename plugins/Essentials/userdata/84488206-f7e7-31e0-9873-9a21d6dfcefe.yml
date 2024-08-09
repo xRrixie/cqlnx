@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.199.56.225
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723146138249
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723194371522
+  login: 1723191643619
+money: '0'
+logoutlocation:
+  world: 902f60b3-7eff-4b43-9f2a-dfe12f79d932
+  world-name: world
+  x: 5333.135935663634
+  y: 115.0
+  z: -208.7406463622705
+  yaw: -46.9449462890625
+  pitch: 28.35081672668457
+last-account-name: xRrixie_
+lastlocation:
+  world: 902f60b3-7eff-4b43-9f2a-dfe12f79d932
+  world-name: world
+  x: 5245.144425697037
+  y: -30.374327723513613
+  z: -233.51699636347368
+  yaw: 124.0503158569336
+  pitch: -60.29990005493164
